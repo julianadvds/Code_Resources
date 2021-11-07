@@ -1,0 +1,6 @@
+VBA_Common Code
+
+'Find last row
+ 'RowCount = Cells(Rows.Count, "A").End(xlUp).Row
+ 
+   
